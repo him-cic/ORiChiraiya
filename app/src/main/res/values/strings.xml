@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">O Ri Chiraiya</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_choose_color">ChooseColorActivity</string>
+    <string name="title_activity_choose_bill_type">ChooseBillTypeActivity</string>
+</resources>
